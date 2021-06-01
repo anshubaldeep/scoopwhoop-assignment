@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scoopwhoop-assignment/static/css/main.2c26a8c7.chunk.css",
+    "main.js": "/scoopwhoop-assignment/static/js/main.63876365.chunk.js",
+    "main.js.map": "/scoopwhoop-assignment/static/js/main.63876365.chunk.js.map",
+    "runtime-main.js": "/scoopwhoop-assignment/static/js/runtime-main.2f2abf16.js",
+    "runtime-main.js.map": "/scoopwhoop-assignment/static/js/runtime-main.2f2abf16.js.map",
+    "static/js/2.b9d097fd.chunk.js": "/scoopwhoop-assignment/static/js/2.b9d097fd.chunk.js",
+    "static/js/2.b9d097fd.chunk.js.map": "/scoopwhoop-assignment/static/js/2.b9d097fd.chunk.js.map",
+    "static/js/3.c119386c.chunk.js": "/scoopwhoop-assignment/static/js/3.c119386c.chunk.js",
+    "static/js/3.c119386c.chunk.js.map": "/scoopwhoop-assignment/static/js/3.c119386c.chunk.js.map",
+    "index.html": "/scoopwhoop-assignment/index.html",
+    "static/css/main.2c26a8c7.chunk.css.map": "/scoopwhoop-assignment/static/css/main.2c26a8c7.chunk.css.map",
+    "static/js/2.b9d097fd.chunk.js.LICENSE.txt": "/scoopwhoop-assignment/static/js/2.b9d097fd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/scoopwhoop-assignment/static/media/Roboto-Regular.a8d6ac03.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f2abf16.js",
+    "static/js/2.b9d097fd.chunk.js",
+    "static/css/main.2c26a8c7.chunk.css",
+    "static/js/main.63876365.chunk.js"
+  ]
+}
