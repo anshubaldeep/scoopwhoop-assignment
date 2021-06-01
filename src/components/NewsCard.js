@@ -53,7 +53,9 @@ const NewsCard = (props) => {
         </a>
 
         <Card.Body>
+        <a href={`https://www.scoopwhoop.com/category/${props.category_slug}`} className="news-link" alt="link">
           <Card.Title>{props.category}</Card.Title>
+          </a>
           <Card.Text>
           <a href={`https://www.scoopwhoop.com/${props.slug}`} className="news-link" alt="link">
               <div className="news-title">{props.headline}</div>

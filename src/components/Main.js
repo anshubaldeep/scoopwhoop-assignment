@@ -56,6 +56,7 @@ const Main = () => {
             key={index}
             image={el.feature_img}
             category={el.cat_display[0].category_display}
+            category_slug={el.cat_display[0].category_slug}
             headline={el.title}
             time={el.readtime}
             date={el.pub_date}
