@@ -55,7 +55,7 @@ const NewsCard = (props) => {
         <Card.Body>
           <Card.Title>{props.category}</Card.Title>
           <Card.Text>
-            <a href={`#${props.key}`} className="news-link" alt="link">
+          <a href={`https://www.scoopwhoop.com/${props.slug}`} className="news-link" alt="link">
               <div className="news-title">{props.headline}</div>
             </a>
           </Card.Text>
