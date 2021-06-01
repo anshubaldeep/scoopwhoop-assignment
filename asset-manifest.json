@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scoopwhoop-assignment/static/css/main.2c26a8c7.chunk.css",
-    "main.js": "/scoopwhoop-assignment/static/js/main.63876365.chunk.js",
-    "main.js.map": "/scoopwhoop-assignment/static/js/main.63876365.chunk.js.map",
+    "main.js": "/scoopwhoop-assignment/static/js/main.2b07289d.chunk.js",
+    "main.js.map": "/scoopwhoop-assignment/static/js/main.2b07289d.chunk.js.map",
     "runtime-main.js": "/scoopwhoop-assignment/static/js/runtime-main.2f2abf16.js",
     "runtime-main.js.map": "/scoopwhoop-assignment/static/js/runtime-main.2f2abf16.js.map",
     "static/js/2.b9d097fd.chunk.js": "/scoopwhoop-assignment/static/js/2.b9d097fd.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2f2abf16.js",
     "static/js/2.b9d097fd.chunk.js",
     "static/css/main.2c26a8c7.chunk.css",
-    "static/js/main.63876365.chunk.js"
+    "static/js/main.2b07289d.chunk.js"
   ]
 }
